@@ -1,0 +1,23 @@
+{
+  "name": "wikiviewer",
+  "version": "1.0.0",
+  "description": "a viewer of wikis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingPra/wikiViewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingPra/wikiViewer/issues"
+  },
+  "homepage": "https://github.com/KingPra/wikiViewer#readme",
+  "dependencies": {
+    "gulp-sass": "^3.1.0",
+    "sass": "^1.0.0-beta.2"
+  }
+}
