@@ -90,7 +90,7 @@ body {
   width: 30px;
   background: orange;
   transform: rotate(45deg);
-  animation: grow-left 1s;
+  animation: grow-left .5s;
   animation-direction: alternate;
 }
 
@@ -102,7 +102,7 @@ body {
   width: 30px;
   background: orange;
   transform: rotate(135deg);
-  animation: grow-right 1s;
+  animation: grow-right .5s;
   animation-direction: alternate;
 
 }
@@ -177,7 +177,7 @@ body {
   0% {
     width: 0;
   }
-  
+
   100% {
     width: 20px;
   }
